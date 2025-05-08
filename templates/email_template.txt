@@ -1,0 +1,20 @@
+Hi,
+
+I hope you are doing well. 
+ 
+I'm Elly Kruse, a UW-Madison student working with two colleagues on an inventory optimization system. Our co-founder, Sumanth Karnati, implemented this solution at an automotive company, where it saved $7 million (4%) in spare parts costs within a year.
+ 
+Given your experience managing inventory at {business_name}, I'd value your perspective on:
+ 
+- What inventory challenges impact your operations most?
+- How could an optimization system better serve businesses like yours?
+ 
+While our core algorithm is fully developed, we're refining integration processes for different business systems. Your insights would be incredibly helpful, even if just through a brief 15-minute conversation.
+ 
+Would you be open to sharing your expertise with us?
+ 
+Thanks for considering,
+Elly Kruse
+UW-Madison Student 
+LinkedIn
+elianakruse@gmail.com
